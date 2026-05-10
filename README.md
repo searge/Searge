@@ -58,10 +58,10 @@ if __name__ == "__main__":
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3127 commits        ███████░░░░░░░░░░░░░░░░░░   26.54 % 
-🌆 Daytime                5313 commits        ███████████░░░░░░░░░░░░░░   45.09 % 
-🌃 Evening                3046 commits        ██████░░░░░░░░░░░░░░░░░░░   25.85 % 
-🌙 Night                  298 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.53 % 
+🌞 Morning                3189 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
+🌆 Daytime                5451 commits        ███████████░░░░░░░░░░░░░░   45.19 % 
+🌃 Evening                3123 commits        ██████░░░░░░░░░░░░░░░░░░░   25.89 % 
+🌙 Night                  300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
 ```
 
 
@@ -71,25 +71,25 @@ if __name__ == "__main__":
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-YAML                     9 hrs 31 mins       ███████░░░░░░░░░░░░░░░░░░   29.72 % 
-Org                      8 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   25.35 % 
-Markdown                 5 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.49 % 
-Other                    4 hrs 19 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.52 % 
-sh                       1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+YAML                     7 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   31.98 % 
+Other                    5 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.67 % 
+Org                      4 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   18.25 % 
+Markdown                 2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.30 % 
+Svelte                   36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
 
 🔥 Editors: 
-Zed                      18 hrs 20 mins      ██████████████░░░░░░░░░░░   57.28 % 
-Emacs                    5 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Unknown Editor           4 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.59 % 
-Zsh                      2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-VS Code                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
+Zed                      15 hrs 41 mins      █████████████████░░░░░░░░   67.26 % 
+Unknown Editor           3 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+Emacs                    2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.78 % 
+Zsh                      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 
 💻 Operating System: 
-Linux                    32 hrs 1 min        █████████████████████████   100.00 % 
+Linux                    23 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 03/05/2026 00:23:03 UTC
+ Last Updated on 10/05/2026 00:24:47 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
