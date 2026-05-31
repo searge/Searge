@@ -55,41 +55,8 @@ if __name__ == "__main__":
 
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                3249 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌆 Daytime                5615 commits        ███████████░░░░░░░░░░░░░░   45.47 % 
-🌃 Evening                3182 commits        ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-🌙 Night                  302 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Kyiv
-
-💬 Programming Languages: 
-Org                      19 hrs 13 mins      ███████████░░░░░░░░░░░░░░   42.27 % 
-YAML                     8 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Other                    7 hrs 1 min         ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
-Markdown                 5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
-Bash                     1 hr 11 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-
-🔥 Editors: 
-Zed                      25 hrs 2 mins       ██████████████░░░░░░░░░░░   55.02 % 
-Emacs                    12 hrs 4 mins       ███████░░░░░░░░░░░░░░░░░░   26.56 % 
-Claude Code              5 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.71 % 
-Zsh                      2 hrs 5 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-Vim                      30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
-
-💻 Operating System: 
-Linux                    45 hrs 29 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 24/05/2026 00:28:26 UTC
+ Last Updated on 31/05/2026 00:31:20 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
