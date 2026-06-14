@@ -55,8 +55,41 @@ if __name__ == "__main__":
 
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) 
 <!--START_SECTION:waka-->
+**I'm an Early 🐤** 
 
- Last Updated on 07/06/2026 00:33:17 UTC
+```text
+🌞 Morning                3316 commits        ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+🌆 Daytime                5794 commits        ███████████░░░░░░░░░░░░░░   45.73 % 
+🌃 Evening                3253 commits        ██████░░░░░░░░░░░░░░░░░░░   25.67 % 
+🌙 Night                  307 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Kyiv
+
+💬 Programming Languages: 
+Markdown                 3 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+YAML                     2 hrs 16 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Other                    2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Org                      1 hr 22 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
+Text                     51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.40 % 
+
+🔥 Editors: 
+Claude Code              6 hrs 9 mins        ███████████░░░░░░░░░░░░░░   45.55 % 
+VS Code                  2 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+Zed                      2 hrs               ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
+Unknown Wakatime         1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
+Emacs                    57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
+
+💻 Operating System: 
+Linux                    13 hrs 30 mins      █████████████████████████   100.00 % 
+```
+
+
+ Last Updated on 14/06/2026 00:34:17 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
