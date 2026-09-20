@@ -55,16 +55,16 @@ if __name__ == "__main__":
 
 ![Visitors](https://komarev.com/ghpvc/?username=searge&label=Profile%20views&color=0e75b6&style=flat) 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C279%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-4%2C294%20hrs%2053%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-623%20hrs%2021%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-639%20hrs%2040%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                3146 commits        ███████░░░░░░░░░░░░░░░░░░   26.14 % 
-🌆 Daytime                5411 commits        ███████████░░░░░░░░░░░░░░   44.96 % 
-🌃 Evening                3160 commits        ███████░░░░░░░░░░░░░░░░░░   26.26 % 
+🌞 Morning                3148 commits        ███████░░░░░░░░░░░░░░░░░░   26.11 % 
+🌆 Daytime                5424 commits        ███████████░░░░░░░░░░░░░░   44.99 % 
+🌃 Evening                3167 commits        ███████░░░░░░░░░░░░░░░░░░   26.27 % 
 🌙 Night                  318 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 ```
 
@@ -75,51 +75,50 @@ if __name__ == "__main__":
 🕑︎ Time Zone: Europe/Kyiv
 
 💬 Programming Languages: 
-Markdown                 9 hrs 23 mins       ███████░░░░░░░░░░░░░░░░░░   29.38 % 
-YAML                     9 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   28.23 % 
-Other                    5 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.30 % 
-Python                   4 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.07 % 
-XML                      58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.05 % 
+YAML                     6 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
+Org                      5 hrs 54 mins       █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+Markdown                 5 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+Other                    4 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
+Bash                     1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
 
 🔥 Editors: 
-Claude Code              27 hrs 39 mins      ██████████████████████░░░   86.52 % 
-Zed                      3 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
-Emacs                    27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
-Vim                      8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-Zsh                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+Claude Code              23 hrs 26 mins      █████████████████████░░░░   84.09 % 
+Zed                      2 hrs 42 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Emacs                    59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.56 % 
+Zsh                      28 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Vim                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-Linux                    31 hrs 57 mins      █████████████████████████   100.00 % 
+Linux                    27 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 29 hrs 27 mins (92.14%)
+⏱ AI Coding Time: 25 hrs 29 mins (91.46%)
 
-✍️ 6,202 lines written by AI, 124 lines written by hand (98.04% AI-written)
+✍️ 6,355 lines written by AI, 120 lines written by hand (98.15% AI-written)
 
-🔤 16,401,799 Input Tokens, 1,762,621 Output Tokens
+🔤 9,471,775 Input Tokens, 1,326,034 Output Tokens
 
-💵 $462.78 Estimated AI Cost This Week
+💵 $384.47 Estimated AI Cost This Week
 
-🧠 30 AI Sessions, 327 AI Prompts
+🧠 13 AI Sessions, 259 AI Prompts
 
-Opus                     5,904 lines         ████████████████████████░   95.18 % 
-GPT                      190 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-Fable                    109 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
-Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     4,486 lines         █████████████████░░░░░░░░   68.72 % 
+Fable                    1,936 lines         ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+GPT                      106 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 Codex-Exec               0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 98.04% of written lines came from AI
-📄 Detailed Prompter — average 734 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
-🚀 High AI Trust — 6.2% of changed lines were hand-edited
+🤖 AI-Driven — 98.15% of written lines came from AI
+📝 Concise Prompter — average 394 characters per prompt
+🔁 Iterative Prompter — average 20 prompts per session
+🚀 High AI Trust — 2.08% of changed lines were hand-edited
 ```
 
 
- Last Updated on 13/09/2026 01:56:50 UTC
+ Last Updated on 20/09/2026 02:13:51 UTC
 <!--END_SECTION:waka-->
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=14,21&height=82&section=footer)
